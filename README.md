@@ -2,7 +2,6 @@
 This is a webcrawler and indexer working with python and mongodb
 
 1. get urls list
-===========================
  - run crawler_new_db.py for indexing all urls from a webpage
  - enter the url of the page where you want to start
  ------
